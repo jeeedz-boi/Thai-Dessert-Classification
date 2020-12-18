@@ -24,3 +24,4 @@
 
 ## Others
 [Frontend + Backend Click Here](https://github.com/niflheimre/Image_Flask?fbclid=IwAR3uJJbwyi8TjggCufIj9utgri_dBBPHGq-gOjvydf48V4-HzkCAbwYWo8Y)
+[Trained Model](https://drive.google.com/drive/folders/1_BxTLxIxoinj1C3L_pzW72-mi5A1PQtI?usp=sharing)
