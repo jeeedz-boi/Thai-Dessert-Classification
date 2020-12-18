@@ -6,7 +6,8 @@
 [Code Files Click Here](https://github.com/naiguncha/Thai-Dessert-Classification/tree/main/The%20Code%20Files)
 
 ## The Dataset
-[Thai Dessert Dataset](https://drive.google.com/drive/folders/1jWiv6Gnue6x6WEElDTt4ef5GxcpQxjlc?usp=sharing)\n
+[Thai Dessert Dataset](https://drive.google.com/drive/folders/1jWiv6Gnue6x6WEElDTt4ef5GxcpQxjlc?usp=sharing)
+
 [Thai Dessert Dataset Augmented](https://drive.google.com/drive/folders/1sr09AG978_kZPV6RBtz5VAw0lJkq71Y8?usp=sharing)
 
 ## The Presentation
