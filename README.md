@@ -2,12 +2,12 @@
 ### This project is the part of EGCO486 Course, Computer Enginering Mahidol University
 
 
-## The Source Code Files
-[Test](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Code%20Files/Thai_Desserts_Clssification_Test.ipynb)
+## Source Code Files
+[Test Python Notebook](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Code%20Files/Thai_Desserts_Clssification_Test.ipynb)
 
-[Train](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Code%20Files/Thai_Desserts_Clssification_Train.ipynb)
+[Train Python Notebook](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Code%20Files/Thai_Desserts_Clssification_Train.ipynb)
 
-## The Dataset
+## Dataset Usage
 [Thai Dessert Dataset](https://drive.google.com/drive/folders/1jWiv6Gnue6x6WEElDTt4ef5GxcpQxjlc?usp=sharing)
 
 [Thai Dessert Dataset Augmented](https://drive.google.com/drive/folders/1sr09AG978_kZPV6RBtz5VAw0lJkq71Y8?usp=sharing)
