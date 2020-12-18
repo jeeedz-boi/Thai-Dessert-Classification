@@ -2,8 +2,10 @@
 ### This project is the part of EGCO486 Course, Computer Enginering Mahidol University
 
 
-## The Code Files
-[Code Files Click Here](https://github.com/naiguncha/Thai-Dessert-Classification/tree/main/The%20Code%20Files)
+## The Source Code Files
+[Test](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Code%20Files/Thai_Desserts_Clssification_Test.ipynb)
+
+[Train](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Code%20Files/Thai_Desserts_Clssification_Train.ipynb)
 
 ## The Dataset
 [Thai Dessert Dataset](https://drive.google.com/drive/folders/1jWiv6Gnue6x6WEElDTt4ef5GxcpQxjlc?usp=sharing)
@@ -11,11 +13,14 @@
 [Thai Dessert Dataset Augmented](https://drive.google.com/drive/folders/1sr09AG978_kZPV6RBtz5VAw0lJkq71Y8?usp=sharing)
 
 ## The Presentation
-[The Presentation Click Here](https://github.com/naiguncha/Thai-Dessert-Classification/tree/main/The%20Presentation)
+[Presentation PDF](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Presentation/Image%20Processing%20Final%20Project%20Presentation.pdf)
+
+[Presentation PPTX](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Presentation/Image%20Processing%20Final%20Project%20Presentation.pptx)
 
 ## The Report
-[The Report Click Here](https://github.com/naiguncha/Thai-Dessert-Classification/tree/main/The%20Report)
+[Report PDF](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Report/Image%20Processing%20Final%20Project%20Report.pdf)
+
+[Report DOCX](https://github.com/naiguncha/Thai-Dessert-Classification/blob/main/The%20Report/Image%20Processing%20Final%20Project%20Report.docx)
 
 ## Others
-#### Frontend + Backend
-[Frontend + Backend Click Here](https://github.com/naiguncha/Thai-Dessert-Classification/tree/main/The%20Report)
+[Frontend + Backend Click Here](https://github.com/niflheimre/Image_Flask?fbclid=IwAR3uJJbwyi8TjggCufIj9utgri_dBBPHGq-gOjvydf48V4-HzkCAbwYWo8Y)
